@@ -1,0 +1,12 @@
+python-novaclient (2011.3-final-rcb1) natty; urgency=low
+
+  * import github.com/cloudbuilders/python-novaclient, revision
+    2b0d82c05cf9f19c01752a75804cdcadf80e82ee (tag rcb_v1.1)
+
+ -- RCB Builder <rcb-deploy@lists.rackspace.com>  Thu, 03 Nov 2011 15:18:23 -0500
+
+python-novaclient (2.4-0ubuntu1) natty; urgency=low
+
+  * Initial upload (FFe LP: #732461)
+
+ -- Thierry Carrez (ttx) <thierry@openstack.org>  Wed, 09 Mar 2011 13:54:33 +0100
